@@ -11,7 +11,7 @@ public clip pages, Discord alerts, and OBS overlays.
 | Repo | What it is |
 |---|---|
 | [clipwave-react](https://github.com/clipwaveapp/clipwave-react) | Web platform — channel pages, clips feed, dashboards |
-| [clipwave-app](https://github.com/clipwaveapp/clipwave-app) | Desktop app (Electron) — browse and download clips locally |
+| [clipwave-app](https://github.com/clipwaveapp/clipwave-app) | Desktop app (Tauri) — browse and download clips locally |
 | [clipwave-vps-api](https://github.com/clipwaveapp/clipwave-vps-api) | Backend API (Flask) — chat commands, timestamps, monitor |
 
 ## For streamers
